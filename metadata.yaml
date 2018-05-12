@@ -1,0 +1,35 @@
+_repo: Riverby_45307
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45307-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_issued: '2014-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45307'
+  lccn: '12031069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'QH'
+- !lcsh 'Birds'
+tableOfContents: Among the wild-flowers -- The heart of the southern Catskills --
+  Birds' eggs -- Bird courtship -- Notes from the prairie -- Eye-beams -- A young
+  marsh hawk -- The chipmunk -- Spring jottings -- Glimpses of wild life -- A life
+  of fear -- Lovers of nature -- A taste of Kentucky blue-grass -- In Mammoth Cave
+  -- Hasty observation -- Bird life in an old apple-tree -- The ways of sportsmen
+  -- Talks with young observers.
+title: Riverby
+url: http://www.gutenberg.org/ebooks/45307
